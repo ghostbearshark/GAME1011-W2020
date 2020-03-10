@@ -15,22 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Example6.cpp">
+    <ClCompile Include="pr14-01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Example1.cpp">
+    <ClCompile Include="pr14-03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Example2.cpp">
+    <ClCompile Include="pr14-04.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Example3.cpp">
+    <ClCompile Include="pr14-05.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Example4.cpp">
+    <ClCompile Include="pr14-06.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Example5.cpp">
+    <ClCompile Include="pr14-07.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pr14-08.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pr14-09.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
